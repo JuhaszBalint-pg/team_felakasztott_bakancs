@@ -11,7 +11,7 @@ promts:
 - further changes made in paint
 - Finalised version:
 
-    ![alt text](9856382b-7f25-448b-a7af-13b0e278ce3a.png)
+    ![alt text](Bakancs.png)
 
 
 ReadMe edited by : Bálint 

@@ -1,6 +1,7 @@
 # Welcome to the _project of Bálint, Domi and Marci_
+
 # We present you the project of *team_felakasztott_bakancs* 🥾
---
+
 
 logo by: Sora ai🤖, promted by Domi and Marci
 promts:

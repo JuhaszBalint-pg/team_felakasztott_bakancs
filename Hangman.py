@@ -16,8 +16,7 @@ for i in countries_and_capitals():
     capital.append(y)
 ran_country=random.randint(0, (len(country)))
 ran_capital=random.randint(0, (len(capital)))
-print(capital[ran_capital])
-print(country[ran_country])
+
 
 city = capital[ran_capital]
 country = country[ran_country]

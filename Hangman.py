@@ -45,6 +45,7 @@ while fut:
     city = capital[ran_capital]
     country = orszag[ran_country]
 
+    print('Mit szeretnél kitalálni?')
     print("[1] Ország")
     print("[2] Főváros")
     print("[ENTER] Kilépés")
@@ -52,21 +53,20 @@ while fut:
 
     if choice == '1':
         hangmancu(country)
-        city.clear()
     elif choice == '2':
         hangmanci(city)
-        country.clear()
     elif choice == '':
         Fut = False
-
+'''
 while kitalalas:
     guess = input('Adj meg 1db betűt!')
     if guess in country or guess in city:
-
+        
     elif:
         city.append(guess)
         country.append(guess)
+        
     if hibapont == len(country) or hibapont == len(city)
         kitalalas = False
-
+'''
 print('Köszönjük a játékot')

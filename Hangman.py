@@ -22,7 +22,10 @@ def hangmancu(country):
     print(''.join(hidden2))
     return country, country.count(' ')
 
+kitalalas = True
 fut = True
+hibapont = 0
+hibasbetu = []
 hidden1 = []
 hidden2 = []
 orszag=[]
@@ -49,11 +52,21 @@ while fut:
 
     if choice == '1':
         hangmancu(country)
-        country.clear()
+        city.clear()
     elif choice == '2':
         hangmanci(city)
+        country.clear()
     elif choice == '':
         Fut = False
 
-hibapont = 0
+while kitalalas:
+    guess = input('Adj meg 1db betűt!')
+    if guess in country or guess in city:
+
+    elif:
+        city.append(guess)
+        country.append(guess)
+    if hibapont == len(country) or hibapont == len(city)
+        kitalalas = False
+
 print('Köszönjük a játékot')

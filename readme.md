@@ -13,27 +13,28 @@ promts:
 
     ![alt text](Bakancs.png)
 
-
-<-------- ReadMe -------->  
+___________________________________________________________________________________________________________________
+# ReadMe  
 -- Bálint  
 -- Marci  
-<------------------------>  
-
-<-------- Ascii art -------->  
+___________________________________________________________________________________________________________________
+# Ascii art 
 -- Iván Levi ötlete volt  
 -- internetről szedtük  
 
-<-------- Commitok -------->  
+___________________________________________________________________________________________________________________
+# Commitok    
 -- Mindenki commitolt  
 -- voltak vele problémák  
 -- nem mindig látszódott  
 
-<-------- Kommentek -------->  
+___________________________________________________________________________________________________________________
+# Kommentek 
 -- Iván Levi ötlete volt  
 -- teljesen elfelejtettük  
 
-
-<-------- Kihívások -------->  
+___________________________________________________________________________________________________________________
+# Kihívások 
 -- kitalált betűk mutatása  
 -- egyeztetni a kódrészleteket  
 -- tudáshiány pl.: set()  
@@ -106,7 +107,7 @@ def play_one_round(secret_word, label): #secret word
 /////////////////////////////////  
 
 
-<-------- Végső gondolatok -------->  
+## Végső gondolatok  
 -- nehéz volt de megérte  
 -- bővítette a tudásunkat  
 -- rájöttünk, hogy mennyire kevés a tudásunk  

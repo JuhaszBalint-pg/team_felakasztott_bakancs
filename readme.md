@@ -15,29 +15,29 @@ promts:
 
 ___________________________________________________________________________________________________________________
 # ReadMe📚  
--- Bálint  
+* Bálint  
 -- Marci  
 ___________________________________________________________________________________________________________________
 # Ascii art \ (^_^) /
--- Iván Levi ötlete volt  
--- internetről szedtük  
+* Iván Levi ötlete volt  
+* internetről szedtük  
 
 ___________________________________________________________________________________________________________________
 # Commitok👾      
--- Mindenki commitolt  
--- voltak vele problémák  
--- nem mindig látszódott  
+* Mindenki commitolt  
+* voltak vele problémák   
+* nem mindig látszódott  
 
 ___________________________________________________________________________________________________________________
 # Kommentek ✏️  
--- Iván Levi ötlete volt  
--- teljesen elfelejtettük  
+* Iván Levi ötlete volt  
+* teljesen elfelejtettük  
 
 ___________________________________________________________________________________________________________________
 # Kihívások 😫
--- kitalált betűk mutatása  
--- egyeztetni a kódrészleteket  
--- tudáshiány pl.: set()  
+* kitalált betűk mutatása  
+* egyeztetni a kódrészleteket  
+* tudáshiány pl.: set()  
 ___________________________________________________________________________________________________________________
 # Code snippetek   
 
@@ -86,25 +86,25 @@ ________________________________________________________________________________
 
  
 # Pék Dominik  
--- fájl kezelése  
--- score board  
+* fájl kezelése  
+* score board  
 ___________________________________________________________________________________________________________________ 
 # Juhász Bálint  
--- while cikklusok  
--- for cikklusok  
--- függvények  
+* while cikklusok  
+* for cikklusok  
+* függvények  
 ___________________________________________________________________________________________________________________
-  
+ 
 # Rónai Márton  
--- ötlet adás  
--- függvény írás  
--- debugging  
+* ötlet adás  
+* függvény írás  
+* debugging  
 ___________________________________________________________________________________________________________________
 ## Végső gondolatok  
--- nehéz volt de megérte  
--- bővítette a tudásunkat  
--- rájöttünk, hogy mennyire kevés a tudásunk  
--- példát állítot elénk Iván Levi képében
+* nehéz volt de megérte  
+* bővítette a tudásunkat  
+* rájöttünk, hogy mennyire kevés a tudásunk  
+* példát állítot elénk Iván Levi képében
 ___________________________________________________________________________________________________________________
 ##  ~~NO room for giving up~~  
 

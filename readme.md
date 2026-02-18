@@ -38,11 +38,11 @@ ________________________________________________________________________________
 -- kitalált betűk mutatása  
 -- egyeztetni a kódrészleteket  
 -- tudáshiány pl.: set()  
-         
-<-------- Code snippetek -------->  
+___________________________________________________________________________________________________________________
+# Code snippetek   
 ___________________________________________________________________________________________________________________
 -- score board --  
-
+```
 def scoreboard(score):
     try:
         with open("scoreboard.json", "r") as f:
@@ -67,21 +67,21 @@ def scoreboard(score):
             with open ("scoreboard.json","w") as f:
                 json.dump(list, f, indent=4,)
     print(f"{score} tipp kellett, ezzel a neved maximum fejfára kerül")
-
+```
 ___________________________________________________________________________________________________________________
 -- hiddenbe konvertálás --  
-
+```
 def mask_word(word, guessed):
     return "".join(ch if ch.lower() in guessed or ch == " " else "-" for ch in word)
-
+```
 ___________________________________________________________________________________________________________________
 -- egy kör lejátszása --  
-
+```
 def play_one_round(secret_word, label): #secret word         
     guessed = set() # egy elem csak 1x szerepelhet benne, elmenti a már kérdezett betűket
     errors = 0
     score = 0
-
+```
 
 
 /////////////////////////////////  

@@ -14,11 +14,103 @@ promts:
     ![alt text](Bakancs.png)
 
 
-ReadMe edited by : Bálint 
---
+<-------- ReadMe -------->
+-- Bálint
+-- Marci
+<------------------------>
 
-everyone entered lines of code 🖥️
---
+<-------- Ascii art -------->
+-- Iván Levi ötlete volt
+-- internetről szedtük
 
-~~NO room for giving up~~
---
+<-------- Commitok -------->
+-- Mindenki commitolt
+-- voltak vele problémák
+-- nem mindig látszódott
+
+<-------- Kommentek -------->
+-- Iván Levi ötlete volt
+-- teljesen elfelejtettük
+
+
+<-------- Kihívások -------->
+-- kitalált betűk mutatása
+-- egyeztetni a kódrészleteket
+-- tudáshiány pl.: set()
+         
+<-------- Code snippetek -------->
+-- score board --
+___________________________________________________________________________________________________________________
+def scoreboard(score):
+    try:
+        with open("scoreboard.json", "r") as f:
+            list = json.load(f)
+    except:
+        list=[]
+    print("\n" + "="*10 + "HIGH SCORE" + "="*10)
+    print("="*30)
+    print(f"{'Rank':<5} {'Name':<12} {'Score':<10}")
+    print("-" * 30)
+    for i in range(len(list[:10])):
+        Name=list[i]["name"]
+        Score=list[i]["score"]
+        print(f"{i+1:<5} {Name:<12} {Score:<10}")
+    print("="*30)
+    if len(list)>=10 and score<list[9]["score"] or len(list)<10:
+        print(f"Gratulálok! Csupán {score} tippre volt szükséged, amivel bebiztosítottad a helyed a Top 10-ben!")
+        adat=str(input("Adj meg egy nevet vagy nyomj Entert:")).strip()
+        if adat!="":
+            list.append({"name":adat, "score":score})
+            list.sort(key=lambda x: x["score"],)
+            with open ("scoreboard.json","w") as f:
+                json.dump(list, f, indent=4,)
+    print(f"{score} tipp kellett, ezzel a neved maximum fejfára kerül")
+
+
+-- hiddenbe konvertálás --
+___________________________________________________________________________________________________________________
+def mask_word(word, guessed):
+    return "".join(ch if ch.lower() in guessed or ch == " " else "-" for ch in word)
+
+
+-- egy kör lejátszása --
+___________________________________________________________________________________________________________________
+def play_one_round(secret_word, label): #secret word         
+    guessed = set() # egy elem csak 1x szerepelhet benne, elmenti a már kérdezett betűket
+    errors = 0
+    score = 0
+
+
+
+/////////////////////////////////
+          Pék Dominik
+-- fájl kezelése
+-- score board
+/////////////////////////////////
+
+
+/////////////////////////////////
+         Juhász Bálint
+-- while cikklusok
+-- for cikklusok
+-- függvények
+/////////////////////////////////
+
+
+/////////////////////////////////
+         Rónai Márton
+-- ötlet adás
+-- függvény írás
+-- debugging
+/////////////////////////////////
+
+
+<-------- Végső gondolatok -------->
+-- nehéz volt de megérte
+-- bővítette a tudásunkat
+-- rájöttünk, hogy mennyire kevés a tudásunk
+-- példát állítot elénk Iván Levi képében
+
+/////////////////////////////////
+    ~~NO room for giving up~~
+

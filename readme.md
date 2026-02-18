@@ -14,32 +14,32 @@ promts:
     ![alt text](Bakancs.png)
 
 
-<-------- ReadMe -------->
--- Bálint
--- Marci
-<------------------------>
+<-------- ReadMe -------->  
+-- Bálint  
+-- Marci  
+<------------------------>  
 
-<-------- Ascii art -------->
--- Iván Levi ötlete volt
--- internetről szedtük
+<-------- Ascii art -------->  
+-- Iván Levi ötlete volt  
+-- internetről szedtük  
 
-<-------- Commitok -------->
--- Mindenki commitolt
--- voltak vele problémák
--- nem mindig látszódott
+<-------- Commitok -------->  
+-- Mindenki commitolt  
+-- voltak vele problémák  
+-- nem mindig látszódott  
 
-<-------- Kommentek -------->
--- Iván Levi ötlete volt
--- teljesen elfelejtettük
+<-------- Kommentek -------->  
+-- Iván Levi ötlete volt  
+-- teljesen elfelejtettük  
 
 
-<-------- Kihívások -------->
--- kitalált betűk mutatása
--- egyeztetni a kódrészleteket
--- tudáshiány pl.: set()
+<-------- Kihívások -------->  
+-- kitalált betűk mutatása  
+-- egyeztetni a kódrészleteket  
+-- tudáshiány pl.: set()  
          
-<-------- Code snippetek -------->
--- score board --
+<-------- Code snippetek -------->  
+-- score board --  
 ___________________________________________________________________________________________________________________
 def scoreboard(score):
     try:
@@ -82,35 +82,35 @@ def play_one_round(secret_word, label): #secret word
 
 
 
-/////////////////////////////////
-          Pék Dominik
--- fájl kezelése
--- score board
-/////////////////////////////////
+/////////////////////////////////  
+          Pék Dominik  
+-- fájl kezelése  
+-- score board  
+/////////////////////////////////  
 
 
-/////////////////////////////////
-         Juhász Bálint
--- while cikklusok
--- for cikklusok
--- függvények
-/////////////////////////////////
+/////////////////////////////////  
+         Juhász Bálint  
+-- while cikklusok  
+-- for cikklusok  
+-- függvények  
+/////////////////////////////////  
 
 
-/////////////////////////////////
-         Rónai Márton
--- ötlet adás
--- függvény írás
--- debugging
-/////////////////////////////////
+/////////////////////////////////  
+         Rónai Márton  
+-- ötlet adás  
+-- függvény írás  
+-- debugging  
+/////////////////////////////////  
 
 
-<-------- Végső gondolatok -------->
--- nehéz volt de megérte
--- bővítette a tudásunkat
--- rájöttünk, hogy mennyire kevés a tudásunk
--- példát állítot elénk Iván Levi képében
+<-------- Végső gondolatok -------->  
+-- nehéz volt de megérte  
+-- bővítette a tudásunkat  
+-- rájöttünk, hogy mennyire kevés a tudásunk  
+-- példát állítot elénk Iván Levi képében  
 
-/////////////////////////////////
-    ~~NO room for giving up~~
+/////////////////////////////////  
+    ~~NO room for giving up~~  
 

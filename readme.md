@@ -1,7 +1,8 @@
 # Welcome to the _project of Bálint, Domi and Marci_
 
 # We present you the project of *team_felakasztott_bakancs* 🥾
-## We present you the project of *team_felakasztott_bakancs* 🥾
+## Hope you'll enjoy playing it *team_felakasztott_bakancs* 🥾
+
 
 
 logo by: Sora ai🤖, promted by Domi and Marci
@@ -16,7 +17,7 @@ promts:
 ___________________________________________________________________________________________________________________
 # ReadMe📚  
 * Bálint  
--- Marci  
+* Marci  
 ___________________________________________________________________________________________________________________
 # Ascii art \ (^_^) /
 * Iván Levi ötlete volt  
@@ -39,7 +40,7 @@ ________________________________________________________________________________
 * egyeztetni a kódrészleteket  
 * tudáshiány pl.: set()  
 ___________________________________________________________________________________________________________________
-# Code snippetek   
+# Code snippetek
 
 -- score board --  
 ```
